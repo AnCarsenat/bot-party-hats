@@ -3,6 +3,8 @@
 Six things for the robots to wear in [Bot Party](https://github.com/AnCarsenat/bot-party):
 top hat, party hat, crown, propeller cap, headphones and sunglasses.
 
+![icon](icon.png)
+
 ## Install
 
 In the game: **Mods → Explore → Hats**. Or download `hats.pck` from the

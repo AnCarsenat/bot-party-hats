@@ -1,8 +1,9 @@
 {
   "name": "Hats",
   "author": "Bot Party",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Hats and glasses for the robots: choose them in Mods > Looks.",
+  "icon": "icon.png",
   "cosmetics": {
     "top_hat": {
       "name": "Top hat",
